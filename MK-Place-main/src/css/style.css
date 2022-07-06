@@ -1,0 +1,203 @@
+.nCart {
+  background-color: red;
+  color: white;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-radius: 91%;
+}
+body{
+  background-image: url(https://img.freepik.com/vector-gratis/dulces-san-valentin-fondo-pasteleria-ilustracion-vectorial_546563-318.jpg);
+  transition: all;
+  background-size: cover;
+}
+
+.imgCart{
+    width: 35px;
+}
+.img1{
+  position: absolute;
+  top: 30%;
+}
+.bot{
+  background-color: lightcoral;
+  border-color: lightcoral;
+  display: flex;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  background: lightcoral;
+  height: 50px;
+  border-radius: 40px;
+  font-size: 20px;
+  font-family: cursive;
+  left: 50%;
+  top: 90%;
+  text-decoration: none;
+}
+.titulo{
+  font-size: 40px;
+  font-family: cursive;
+}
+.barra{
+  background-color: lightcoral;
+  background: lightcoral;
+  border-radius: 50px;
+  top: 30%;
+}
+.bot1{
+  background-color: lightcoral;
+  border-color: lightcoral;
+  background: lightcoral;
+  height: 40px;
+  border-radius: 40px;
+  font-size: 20px;
+  font-family: cursive;
+}
+.imgalfajor{
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  left: 78%;
+  top: 52%;
+}
+.descripcion{
+  font-size: 40px;
+  top: 25%;
+}
+.imgmembrillo{
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  left: 85%;
+  top: 62%;
+}
+.imgking{
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  left: 87%;
+  top: 72%;
+}
+.barra1{
+  background-color: lightcoral;
+  background: lightcoral;
+  border-radius: 50px;
+  position: absolute;
+  top: 27%;
+  left: 35%;
+}
+.nombre{
+  font-family: cursive;
+}
+.bot2{
+  background-color: lightcoral;
+  border-color: lightcoral;
+  background: lightcoral;
+  height: 40px;
+  border-radius: 40px;
+  font-size: 20px;
+  font-family: cursive;
+}
+.barra2{
+  background-color: lightcoral;
+  border-color: lightcoral;
+  background: lightcoral;
+  height: 40px;
+  width: 250px;
+  border-radius: 40px;
+  font-size: 20px;
+  font-family: cursive;
+
+}
+.barra3{
+  background-color: lightcoral;
+  border-color: lightcoral;
+  background: lightcoral;
+  height: 40px;
+  width: 250px;
+  border-radius: 40px;
+  font-size: 20px;
+  font-family: cursive;
+
+}
+.barra4{
+  background-color: lightcoral;
+  border-color: lightcoral;
+  background: lightcoral;
+  height: 40px;
+  width: 250px;
+  border-radius: 40px;
+  font-size: 20px;
+  font-family: cursive;
+
+}
+.barra5{
+  background-color: lightcoral;
+  border-color: lightcoral;
+  background: lightcoral;
+  height: 40px;
+  width: 250px;
+  border-radius: 40px;
+  font-size: 20px;
+  font-family: cursive;
+
+}
+.imgchica{
+  position: absolute;
+  left: 50%;
+  top: 15%;
+}
+.formu{
+  position: absolute;
+  top: 20%;
+}
+.palabra{
+  position: absolute;
+  font-family: cursive;
+  top: 90%;
+  font-size: 30px;
+  left: 10%;
+}
+.tarjeta{
+  position: absolute;
+  top: 20%;
+  left: 5%;
+
+}
+.tarjeta1{
+  position: absolute;
+  top: 50%;
+  left: 5%;
+
+}
+.tarjeta2{
+  position: absolute;
+  top: 80%;
+  left: 5%;
+}
+.tarjeta3{
+  position: absolute;
+  top: 110%;
+  left: 5%;
+
+}
+.bot3{
+  background-color: lightcoral;
+  border-color: lightcoral;
+  background: lightcoral;
+  height: 40px;
+  border-radius: 40px;
+  font-size: 20px;
+  font-family: cursive;
+}
+.imginventario{
+  position: absolute;
+  left: 60%;
+  top: 40%;
+}
+.palabra1{
+  position: absolute;
+  font-family: cursive;
+  top: 20%;
+  font-size: 30px;
+  left: 30%;
+}
